@@ -122,5 +122,3 @@ This project is licensed under the **MIT License**.
 
 
 ---
-
-If you want next level: I can convert this into a **consulting-style case study (problem → hypothesis → analysis → recommendation → impact)** which is exactly what companies like Accenture expect.
